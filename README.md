@@ -2,4 +2,4 @@
 In this beginner friendly repository I will create mini projects using python.
 
 ## 1. Trip Planner:
-Code a trip planner in which you ask user to choose the trip details. The entire project is being made from the YouTube channel "https://www.youtube.com/@codewithjoshoffical". He is an amazing person and I am learning basic Python from his beginner friendly videos.
+Code a trip planner in which you ask user to choose the trip details. The entire project is being made from the (YouTube channel)["https://www.youtube.com/@codewithjoshoffical"]. He is an amazing person and I am learning basic Python from his beginner friendly videos.
