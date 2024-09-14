@@ -8,5 +8,5 @@ The project is little bit modified but the main idea was adopted from the [YouTu
 ## 2. BMI Calculator:
 Code a BMI calculator by using two functions.
 
-## Timer:
+## 3. Timer:
 Code a program that calculates the time to download a file .
